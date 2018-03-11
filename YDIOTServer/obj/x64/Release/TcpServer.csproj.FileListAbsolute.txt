@@ -1,0 +1,9 @@
+D:\programe\pull\HPSocketCS\bin\x64\Release\TcpServer.exe.config
+D:\programe\pull\HPSocketCS\bin\x64\Release\TcpServer.exe
+D:\programe\pull\HPSocketCS\bin\x64\Release\TcpServer.pdb
+D:\programe\pull\HPSocketCS\TcpServer\obj\x64\Release\TcpServer.csprojResolveAssemblyReference.cache
+D:\programe\pull\HPSocketCS\TcpServer\obj\x64\Release\SSLServerNS.frmServer.resources
+D:\programe\pull\HPSocketCS\TcpServer\obj\x64\Release\TcpServer.Properties.Resources.resources
+D:\programe\pull\HPSocketCS\TcpServer\obj\x64\Release\TcpServer.csproj.GenerateResource.Cache
+D:\programe\pull\HPSocketCS\TcpServer\obj\x64\Release\TcpServer.exe
+D:\programe\pull\HPSocketCS\TcpServer\obj\x64\Release\TcpServer.pdb

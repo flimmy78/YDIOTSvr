@@ -1,0 +1,11 @@
+D:\programe\pull\YDIOTSvr\BLL\bin\Debug\YDIOTSvr.DataLayer.BLL.dll
+D:\programe\pull\YDIOTSvr\BLL\bin\Debug\YDIOTSvr.DataLayer.BLL.pdb
+D:\programe\pull\YDIOTSvr\BLL\bin\Debug\YDIOTSvr.DataLayer.DAL.dll
+D:\programe\pull\YDIOTSvr\BLL\bin\Debug\YDIOTSvr.DataLayer.Entity.dll
+D:\programe\pull\YDIOTSvr\BLL\bin\Debug\YDIOTSvr.DataLayer.SQLHelper.dll
+D:\programe\pull\YDIOTSvr\BLL\bin\Debug\YDIOTSvr.DataLayer.DAL.pdb
+D:\programe\pull\YDIOTSvr\BLL\bin\Debug\YDIOTSvr.DataLayer.Entity.pdb
+D:\programe\pull\YDIOTSvr\BLL\bin\Debug\YDIOTSvr.DataLayer.SQLHelper.pdb
+D:\programe\pull\YDIOTSvr\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\programe\pull\YDIOTSvr\BLL\obj\Debug\YDIOTSvr.DataLayer.BLL.dll
+D:\programe\pull\YDIOTSvr\BLL\obj\Debug\YDIOTSvr.DataLayer.BLL.pdb

@@ -1,0 +1,92 @@
+D:\programe\pull\HPSocketCS\bin\x64\Release\TcpServer.exe.config
+D:\programe\pull\HPSocketCS\TcpServer\obj\x64\Release\TcpServer.exe
+D:\programe\pull\HPSocketCS\TcpServer\obj\x64\Release\TcpServer.pdb
+D:\programe\pull\HPSocketCS\YDIOTServer\obj\x64\Release\TcpServer.exe
+D:\programe\pull\HPSocketCS\YDIOTServer\obj\x64\Release\TcpServer.pdb
+D:\programe\pull\YDIOTSvr\bin\x64\Release\TcpServer.exe.config
+D:\programe\pull\YDIOTSvr\bin\x64\Release\TcpServer.exe
+D:\programe\pull\YDIOTSvr\bin\x64\Release\TcpServer.pdb
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\TcpServer.exe.config
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\TcpServer.exe
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\TcpServer.pdb
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\DerivedObject.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\HPSocketCS.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Common.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Interfaces.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Redis.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Text.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.BusinessLayer.BaseObject.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.Entity.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.SQLHelper.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.YDIOTSvrUtil.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.BLL.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.DAL.dll
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.BusinessLayer.BaseObject.pdb
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\DerivedObject.pdb
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.Entity.pdb
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.SQLHelper.pdb
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.YDIOTSvrUtil.pdb
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.BLL.pdb
+D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.DAL.pdb
+D:\programe\pull\YDIOTSvr\YDIOTServer\obj\x64\Release\YDIOTServer.csprojResolveAssemblyReference.cache
+D:\programe\pull\YDIOTSvr\YDIOTServer\obj\x64\Release\SSLServerNS.frmServer.resources
+D:\programe\pull\YDIOTSvr\YDIOTServer\obj\x64\Release\TcpServer.Properties.Resources.resources
+D:\programe\pull\YDIOTSvr\YDIOTServer\obj\x64\Release\YDIOTServer.csproj.GenerateResource.Cache
+D:\programe\pull\YDIOTSvr\YDIOTServer\obj\x64\Release\TcpServer.exe
+D:\programe\pull\YDIOTSvr\YDIOTServer\obj\x64\Release\TcpServer.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\TcpServer.exe.config
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\TcpServer.exe
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\TcpServer.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\TcpServer.exe
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\TcpServer.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\DerivedObject.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\HPSocketCS.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Common.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Interfaces.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Redis.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Text.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.BusinessLayer.BaseObject.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.Entity.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.SQLHelper.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.YDIOTSvrUtil.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.BLL.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.DAL.dll
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.BusinessLayer.BaseObject.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\DerivedObject.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.Entity.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.SQLHelper.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.YDIOTSvrUtil.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.BLL.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.DAL.pdb
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\YDIOTServer.csprojResolveAssemblyReference.cache
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\SSLServerNS.frmServer.resources
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\TcpServer.Properties.Resources.resources
+C:\Users\ryan\Desktop\新建文件夹 (2)\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\YDIOTServer.csproj.GenerateResource.Cache
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\TcpServer.exe.config
+E:\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\TcpServer.exe
+E:\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\TcpServer.pdb
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\TcpServer.exe
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\TcpServer.pdb
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\DerivedObject.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\HPSocketCS.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Common.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Interfaces.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Redis.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\ServiceStack.Text.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.BusinessLayer.BaseObject.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.Entity.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.SQLHelper.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.YDIOTSvrUtil.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.BLL.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.DAL.dll
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.BusinessLayer.BaseObject.pdb
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\DerivedObject.pdb
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.Entity.pdb
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.SQLHelper.pdb
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.YDIOTSvrUtil.pdb
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.BLL.pdb
+E:\元大信息\YDIOTSvr\YDIOTServer\bin\x64\Release\YDIOTSvr.DataLayer.DAL.pdb
+E:\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\YDIOTServer.csprojResolveAssemblyReference.cache
+E:\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\SSLServerNS.frmServer.resources
+E:\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\TcpServer.Properties.Resources.resources
+E:\元大信息\YDIOTSvr\YDIOTServer\obj\x64\Release\YDIOTServer.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+D:\programe\pull\YDIOTSvr\SQLHelper\bin\Debug\YDIOTSvr.DataLayer.SQLHelper.dll
+D:\programe\pull\YDIOTSvr\SQLHelper\bin\Debug\YDIOTSvr.DataLayer.SQLHelper.pdb
+D:\programe\pull\YDIOTSvr\SQLHelper\obj\Debug\YDIOTSvr.DataLayer.SQLHelper.dll
+D:\programe\pull\YDIOTSvr\SQLHelper\obj\Debug\YDIOTSvr.DataLayer.SQLHelper.pdb

@@ -1,0 +1,8 @@
+D:\programe\pull\YDIOTSvr\Entity\bin\Release\YDIOTSvr.DataLayer.Entity.dll
+D:\programe\pull\YDIOTSvr\Entity\bin\Release\YDIOTSvr.DataLayer.Entity.pdb
+D:\programe\pull\YDIOTSvr\Entity\obj\Release\YDIOTSvr.DataLayer.Entity.dll
+D:\programe\pull\YDIOTSvr\Entity\obj\Release\YDIOTSvr.DataLayer.Entity.pdb
+E:\元大信息\YDIOTSvr\Entity\bin\Release\YDIOTSvr.DataLayer.Entity.dll
+E:\元大信息\YDIOTSvr\Entity\bin\Release\YDIOTSvr.DataLayer.Entity.pdb
+E:\元大信息\YDIOTSvr\Entity\obj\Release\YDIOTSvr.DataLayer.Entity.dll
+E:\元大信息\YDIOTSvr\Entity\obj\Release\YDIOTSvr.DataLayer.Entity.pdb

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{34455447-25E4-4936-A8C9-68F965C674AB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>YDIOTSvr.DataLayer.Entity</RootNamespace>
+    <AssemblyName>YDIOTSvr.DataLayer.Entity</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcutuatorTypeEntity.cs" />
+    <Compile Include="AutoIrrigateConfigEntity.cs" />
+    <Compile Include="AutoIrrigateLogEntity.cs" />
+    <Compile Include="AutoIrrigateTriggerEntity.cs" />
+    <Compile Include="ControllerEntity.cs" />
+    <Compile Include="DTUEntity.cs" />
+    <Compile Include="DTULogEntity.cs" />
+    <Compile Include="FacilityEntity.cs" />
+    <Compile Include="FacilityConfigEntity.cs" />
+    <Compile Include="FacilityTypeEntity.cs" />
+    <Compile Include="FlowGaugeEntity.cs" />
+    <Compile Include="FunctionMenuEntity.cs" />
+    <Compile Include="GroupObjEntity.cs" />
+    <Compile Include="HistoryItemEntity.cs" />
+    <Compile Include="HistoryItemForUsageEntity.cs" />
+    <Compile Include="IrrigationgConfigEntity.cs" />
+    <Compile Include="IrrigationLogEntity.cs" />
+    <Compile Include="IrrigationOutLineEntity.cs" />
+    <Compile Include="LandEntity.cs" />
+    <Compile Include="MainMenuLimitsEntity.cs" />
+    <Compile Include="MapSiteEntity.cs" />
+    <Compile Include="MapSiteConfigEntity.cs" />
+    <Compile Include="MDPortEntity.cs" />
+    <Compile Include="MenuEntity.cs" />
+    <Compile Include="StationEntity.cs" />
+    <Compile Include="StationSensorEntity.cs" />
+    <Compile Include="StationTypeEntity.cs" />
+    <Compile Include="MoistureEntity.cs" />
+    <Compile Include="PollingLogEntity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PumpEntity.cs" />
+    <Compile Include="RoleEntity.cs" />
+    <Compile Include="RS485AddressEntity.cs" />
+    <Compile Include="SensorTypeEntity.cs" />
+    <Compile Include="StatisticsItemEntity.cs" />
+    <Compile Include="statisticsItemForUasgeEntity.cs" />
+    <Compile Include="UsageEntity.cs" />
+    <Compile Include="UserEntity.cs" />
+    <Compile Include="UserLogEntity.cs" />
+    <Compile Include="userStateEntity.cs" />
+    <Compile Include="ValueTypeEntity.cs" />
+    <Compile Include="ValueViewEntity.cs" />
+    <Compile Include="ValveEntity.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

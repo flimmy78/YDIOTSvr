@@ -1,0 +1,8 @@
+D:\programe\pull\YDIOTSvr\SQLHelper\bin\Release\YDIOTSvr.DataLayer.SQLHelper.dll
+D:\programe\pull\YDIOTSvr\SQLHelper\bin\Release\YDIOTSvr.DataLayer.SQLHelper.pdb
+D:\programe\pull\YDIOTSvr\SQLHelper\obj\Release\YDIOTSvr.DataLayer.SQLHelper.dll
+D:\programe\pull\YDIOTSvr\SQLHelper\obj\Release\YDIOTSvr.DataLayer.SQLHelper.pdb
+E:\元大信息\YDIOTSvr\SQLHelper\bin\Release\YDIOTSvr.DataLayer.SQLHelper.dll
+E:\元大信息\YDIOTSvr\SQLHelper\bin\Release\YDIOTSvr.DataLayer.SQLHelper.pdb
+E:\元大信息\YDIOTSvr\SQLHelper\obj\Release\YDIOTSvr.DataLayer.SQLHelper.dll
+E:\元大信息\YDIOTSvr\SQLHelper\obj\Release\YDIOTSvr.DataLayer.SQLHelper.pdb

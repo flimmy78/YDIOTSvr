@@ -1,0 +1,4 @@
+D:\programe\pull\YDIOTSvr\Entity\bin\Debug\YDIOTSvr.DataLayer.Entity.dll
+D:\programe\pull\YDIOTSvr\Entity\bin\Debug\YDIOTSvr.DataLayer.Entity.pdb
+D:\programe\pull\YDIOTSvr\Entity\obj\Debug\YDIOTSvr.DataLayer.Entity.dll
+D:\programe\pull\YDIOTSvr\Entity\obj\Debug\YDIOTSvr.DataLayer.Entity.pdb

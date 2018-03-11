@@ -1,0 +1,6 @@
+D:\programe\pull\HPSocketCS\bin\x86\Release\HPSocketCS.dll
+D:\programe\pull\HPSocketCS\bin\x86\Release\HPSocketCS.pdb
+D:\programe\pull\HPSocketCS\HPSocketCS\obj\Release\HPSocketCS.dll
+D:\programe\pull\HPSocketCS\HPSocketCS\obj\Release\HPSocketCS.pdb
+D:\programe\pull\HPSocketCS\HPSocketCS\HPSocketCS.dll
+D:\programe\pull\HPSocketCS\HPSocketCS\HPSocketCS.pdb
