@@ -52,6 +52,8 @@
     <Compile Include="BaseTimerMgr.cs" />
     <Compile Include="Port.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Protocal.cs" />
+    <Compile Include="ServerCMD.cs" />
     <Compile Include="StationProtocol.cs" />
     <Compile Include="TimedRule.cs" />
   </ItemGroup>

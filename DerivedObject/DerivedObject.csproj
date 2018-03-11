@@ -44,7 +44,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CmdModBus.cs" />
     <Compile Include="DTUJTT10.cs" />
     <Compile Include="DTULQ8110E.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

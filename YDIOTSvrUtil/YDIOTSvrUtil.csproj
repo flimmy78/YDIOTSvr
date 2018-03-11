@@ -42,11 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CRCData.cs" />
-    <Compile Include="DataTableMapSiteConfig.cs" />
-    <Compile Include="DataTablePollingLog.cs" />
+    <Compile Include="ModbusFuctionCode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ByteUtils.cs" />
-    <Compile Include="ThreadUtil.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BLL\BLL.csproj">

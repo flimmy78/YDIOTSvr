@@ -5,10 +5,11 @@ using System.Text;
 
 namespace YDIOTSvr.BusinessLayer.BaseObject
 {
-   public class ServerCMD
+    public class ServerCMD
     {
-       public byte[] data { set; get; }
-       public byte[] funcCode { set; get; }
-       public byte[] address { set; get; } 
+        public byte[] data { set; get; }
+        public byte[] funcCode { set; get; }
+        public byte[] address { set; get; }
+        public byte[] validCode { set; get; } 
     }
 }
