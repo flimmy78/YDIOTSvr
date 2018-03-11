@@ -11,9 +11,10 @@ namespace DerivedObject
     public class DTULQ8110E : BaseDTU
     {
         public DTULQ8110E(DTUEntity dtu, IntPtr connId, TcpServer server)
-        :base(dtu,connId,server){
-      
-       }
+            : base(dtu, connId, server)
+        {
+
+        }
         public DTULQ8110E() { }
     }
 }

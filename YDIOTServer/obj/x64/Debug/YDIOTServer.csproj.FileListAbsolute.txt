@@ -26,3 +26,6 @@ D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Debug\YDIOTSvr.DataLayer.BLL.dll
 D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Debug\YDIOTSvr.DataLayer.DAL.dll
 D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Debug\YDIOTSvr.DataLayer.BLL.pdb
 D:\programe\pull\YDIOTSvr\YDIOTServer\bin\x64\Debug\YDIOTSvr.DataLayer.DAL.pdb
+E:\元大信息\git\YDIOTSvr\YDIOTSvr\YDIOTServer\bin\x64\Debug\TcpServer.exe.config
+E:\元大信息\git\YDIOTSvr\YDIOTSvr\YDIOTServer\obj\x64\Debug\TcpServer.exe
+E:\元大信息\git\YDIOTSvr\YDIOTSvr\YDIOTServer\obj\x64\Debug\TcpServer.pdb
