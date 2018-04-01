@@ -194,13 +194,17 @@ namespace YDIOTSvr.BusinessLayer.BaseObject
 
         public void ReceivedCmd(byte[] bytes)
         {
-            if (ByteUtils.ByteArrayEquals2(currentCmd.GetLastCommand(), bytes))
+            Protocal protocal = Protocal.getInstance(this);
+            if (protocal.isToThisDtu(bytes, currentCmd.GetLastCommand()))
             {
-                string addr = "";
-                //表示 发送指令已经收到了，可以丢给对应的模块Station处理了
-                addr = bytes[0] + "";
-                baseStationDic[addr].Parse(bytes);
-                sendPollingCMD();
+                ServerCMD serverCMD = protocal.unWrap(bytes);
+                if (null != serverCMD)
+                {
+                    //表示 发送指令已经收到了，可以丢给对应的模块Station处理了
+                    string addr = serverCMD.adress.ToString();
+                    baseStationDic[addr].Parse(bytes);
+                    sendPollingCMD();
+                }
             }
 
         }
@@ -218,7 +222,6 @@ namespace YDIOTSvr.BusinessLayer.BaseObject
                 if (server.Send(connId, tempCmd, tempCmd.Length))
                 {
                     sendTime = DateTime.Now;
-
                 }
             }
         }

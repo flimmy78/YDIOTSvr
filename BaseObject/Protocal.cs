@@ -8,9 +8,28 @@ namespace YDIOTSvr.BusinessLayer.BaseObject
    public class Protocal
     {
 
-       public virtual string wrap(ServerCMD serverCMD) { return null; }
+       public virtual byte[] wrap(ServerCMD serverCMD) { return null; }
 
-       public virtual ServerCMD unWrap(string cmd) { return null; } 
+       public virtual ServerCMD unWrap(byte[] cmd) { return null; }
+
+       public static  Protocal getInstance(BaseDTU baseDTU) {
+
+           if (baseDTU.dtu.protocal == 0) {
+
+               return new ModbusProtocal();
+           }
+           return null;
+       
+       }
+
+       public virtual bool isToThisDtu(byte[] inData, byte[] compareData) {
+           return false;
+       }
+
+       public virtual bool valid(byte[] inData) {
+
+           return false;
+       }
 
     }
 }

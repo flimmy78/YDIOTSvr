@@ -178,11 +178,12 @@ namespace SSLServerNS
         {
 
             ClientInfo clientInfo = data as ClientInfo;
-            HPSocketCS.TcpServer server = clientInfo.server;
-            byte[] bytes = clientInfo.Data;
-            IntPtr connId = clientInfo.ConnId;
+
             if (clientInfo != null)
             {
+                HPSocketCS.TcpServer server = clientInfo.server;
+                byte[] bytes = clientInfo.Data;
+                IntPtr connId = clientInfo.ConnId;
                 if (bytes.Length == 14 && bytes[0] == 170)
                 {
                     //14位长，并且第一位是170，表示是登陆指令，解析登陆id
@@ -275,7 +276,7 @@ namespace SSLServerNS
             }
             else
             {
-                AddMsg(string.Format(" > [{0},OnReceive] -> ({1} bytes)", connId, bytes.Length));
+                AddMsg(string.Format(" > [OnReceive] -> ({0} bytes)", "recieve data == null"));
             }
         }
 

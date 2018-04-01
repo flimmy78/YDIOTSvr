@@ -114,7 +114,17 @@ namespace YDIOTSvr.DataLayer.Entity{
         {
             get{ return _gp_id; }
             set{ _gp_id = value; }
-        }        
+        }
+
+        /// <summary>
+        /// 0 modbus 1 188
+        /// </summary>		
+        private int _protocal;
+        public int protocal
+        {
+            get { return _protocal; }
+            set { _protocal = value; }
+        } 
 		   
 	}
 }

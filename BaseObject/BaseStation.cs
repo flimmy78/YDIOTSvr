@@ -19,7 +19,6 @@ namespace YDIOTSvr.BusinessLayer.BaseObject
         public Queue<BaseCmd> runtimeComand = new Queue<BaseCmd>();
         public Boolean isInitSccess = false;
         public List<TimedRule> trList = new List<TimedRule>();
-        public StationProtocol protocol = StationProtocol.MODBUS;
 
 
 
@@ -87,24 +86,25 @@ namespace YDIOTSvr.BusinessLayer.BaseObject
                 BaseCmd ce = initComand[i];
                 if (ce.canUse)
                 {
-                    if (ce.GetLastCommand() == null) {
-                        break;
-                    }
-                    if (ByteUtils.ByteArrayEquals2(ce.GetLastCommand(), bytes))
+                    if (ce.GetLastCommand() == null)
                     {
-                        //如果相等，那就是在这个初始化指令的对应回复值
-                        ce.canUse = false;
-                        var query = initComand.Where(item => item.canUse == true && item.stationId == ce.stationId);
-                        if (!query.Any())
-                        {
-                            var pollingQuery = pollingComand.Where(item => item.stationId == ce.stationId);
-                            foreach (var bas in pollingQuery)
-                            {
-                                bas.canUse = true;
-                            }
-                        }
                         break;
                     }
+                    //  if (ByteUtils.ByteArrayEquals2(ce.GetLastCommand(), bytes))
+                    // {
+                    //如果相等，那就是在这个初始化指令的对应回复值
+                    ce.canUse = false;
+                    var query = initComand.Where(item => item.canUse == true && item.stationId == ce.stationId);
+                    if (!query.Any())
+                    {
+                        var pollingQuery = pollingComand.Where(item => item.stationId == ce.stationId);
+                        foreach (var bas in pollingQuery)
+                        {
+                            bas.canUse = true;
+                        }
+                    }
+                    break;
+                    // }
                 }
             }
             var queryAll = initComand.Where(item => item.canUse == true);
@@ -132,21 +132,13 @@ namespace YDIOTSvr.BusinessLayer.BaseObject
         /// <returns></returns>
         public virtual byte[] Parse(byte[] bytes)
         {
-            byte[] rawBytes = new byte[bytes.Length - 2];
-            for (int i = 0; i < rawBytes.Length; i++)
+
+            if (!isInitSccess)
             {
-                rawBytes[i] = bytes[i];
+                isInit(bytes);
             }
-            CRCData crcData = CRCDataCaculate.CRCCaculate(rawBytes);
-            if (crcData.CRCLow == bytes[bytes.Length - 2] && crcData.CRCHigh == bytes[bytes.Length - 1])
-            {
-                if (!isInitSccess)
-                {
-                    isInit(bytes);
-                }
-                return bytes;
-            }
-            return null;
+            return bytes;
+
         }
 
         /// <summary>
